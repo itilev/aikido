@@ -5,4 +5,4 @@ ErrorDocument 401 /
 ErrorDocument 403 /
 ErrorDocument 404 /
 #
-#AddType image/ico ico
+AddType image/ico ico
