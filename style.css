@@ -1,0 +1,10 @@
+
+html, body { width: 100%; height: 100%; margin: 0; }
+body { font-family: Verdana, Tahoma; font-size: 10px; color: #FFFFFF; background-color: #E00000; }
+body { scrollbar-face-color: #FFCCCC; scrollbar-shadow-color: #FF0000; scrollbar-highlight-color: #FFCCCC; scrollbar-3dlight-color: #; scrollbar-darkshadow-color: #; scrollbar-track-image:url(); scrollbar-arrow-color: #FFFFFF; }
+td, th { font-family: Verdana, Tahoma; font-size: 10px; }
+
+a:link, a:visited { text-decoration: none; color: #496A68; font-weight: bold; }
+a:hover, a:active { color: #1B2726; font-weight: bold; }
+
+h1 { color: #A5C7C4; font-size: 26px; font-family: Verdana, Tahoma; }
