@@ -1,9 +1,4 @@
 
 html, body { width: 100%; height: 100%; margin: 0; }
-body { font-family: Verdana, Tahoma; font-size: 10px; color: #FFFFFF; background-color: #E00000; }
+body { font-family: Verdana, Tahoma; font-size: 10px; color: #000; background-color: #fff; }
 td, th { font-family: Verdana, Tahoma; font-size: 10px; }
-
-a:link, a:visited { text-decoration: none; color: #496A68; font-weight: bold; }
-a:hover, a:active { color: #1B2726; font-weight: bold; }
-
-h1 { color: #A5C7C4; font-size: 26px; font-family: Verdana, Tahoma; }
